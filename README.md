@@ -18,7 +18,7 @@ The script is configurable to a certain extent. A description will follow soon.
 
 * **May 2016**: Creating an installation script based on: 
 
-  ```https://gist.github.com/inigoalonso/a77314206b516e94d4aa```
+  https://gist.github.com/inigoalonso/a77314206b516e94d4aa
  
 * **2016 - 2021**: Further development of the script and adaptation to the needs of the MAGIX experiment in Mainz. Updating of the base and module versions.
 * **December 2021**: Decoupling of the installation script. The MAGIX-specific code and the self-developed modules are now separated from the script and can be installed later if required. The same applies to the BaseApp. In addition, the script was adapted to EPICS7.
